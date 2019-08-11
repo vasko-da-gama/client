@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\i'm\source\repos\ioclient\ioclient\Source.cpp(130,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  ioclient.vcxproj -> C:\Users\i'm\source\repos\ioclient\Debug\ioclient.exe
